@@ -11,22 +11,21 @@
   font-size: 20px;
   padding: 3px;
   border: 2px solid #f81548;
-  border-right: none;
-}
+  border-radius: 18px;
+  background: #791214;
+  }
 
 .form input:focus {
-  background: #6fbb41;
+  background: #e76b55;
 }
 
 .form button {
   width: 120px;
   line-height: 40px;
   font-size: 20px;
-  background: #11B211;
-  border: 2px solid #000;
-  transition: .2s ease-in-out;
-}
-
-.form button:hover {
-  background: #2D882D;
+  background: #ef802f;
+  border: 8px solid #11182e;
+  border-radius: 18px;
+  color: #151729;
+  line-height: 10px;
 }
